@@ -29,7 +29,10 @@ class CreateCustomerService {
       email,
     });
 
+    console.log();
+
     return customer;
+    
   }
 }
 
